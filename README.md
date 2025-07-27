@@ -1,1 +1,1 @@
-# My-settio-and-for-vr
+# My-settio-and-for-vrchat
