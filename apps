@@ -11,3 +11,6 @@ Project Babble
 Intiface Central
 OscGoesBrrr
 all.touchSelf=1
+
+
+--fps=90 --process-priority=2 --main-thread-priority=2  -screen-width 640 -screen-height 480
